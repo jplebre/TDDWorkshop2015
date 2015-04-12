@@ -1,0 +1,65 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JasonGormanTDD", "JasonGormanTDD\JasonGormanTDD.csproj", "{D0D3A051-E2E9-4BB9-80C9-2159B6EC7AF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise1", "Exercise1\Exercise1.csproj", "{5A799199-3EC9-45DE-B970-314FC85F9D96}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise2", "Exercise2\Exercise2.csproj", "{D23C8303-88A9-4CF1-A729-A55130FF91B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzz", "FizzBuzz\FizzBuzz.csproj", "{A6B601F3-252B-4900-91D5-03C46CD6364B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FizzBuzzTests", "FizzBuzzTests\FizzBuzzTests.csproj", "{480560B6-A15F-4892-B6FF-0F9794FC1E90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JGHolidayLimited", "JGHolidayLimited\JGHolidayLimited.csproj", "{FCC653C6-E5DC-4E24-AA7E-29095006E094}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JGHolidayLimitedTests", "JGHolidayLimitedTests\JGHolidayLimitedTests.csproj", "{28B07361-32BF-47B6-AE3F-CC90AC32E70D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies4You", "Movies4You\Movies4You.csproj", "{4846603B-6573-4CCE-B2E7-92327154F579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Movies4YouTests", "Movies4YouTests\Movies4YouTests.csproj", "{170EF3D4-DB35-4F6B-B5FD-1DAB7FAA2285}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{170EF3D4-DB35-4F6B-B5FD-1DAB7FAA2285}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{170EF3D4-DB35-4F6B-B5FD-1DAB7FAA2285}.Debug|x86.Build.0 = Debug|Any CPU
+		{170EF3D4-DB35-4F6B-B5FD-1DAB7FAA2285}.Release|x86.ActiveCfg = Release|Any CPU
+		{170EF3D4-DB35-4F6B-B5FD-1DAB7FAA2285}.Release|x86.Build.0 = Release|Any CPU
+		{28B07361-32BF-47B6-AE3F-CC90AC32E70D}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{28B07361-32BF-47B6-AE3F-CC90AC32E70D}.Debug|x86.Build.0 = Debug|Any CPU
+		{28B07361-32BF-47B6-AE3F-CC90AC32E70D}.Release|x86.ActiveCfg = Release|Any CPU
+		{28B07361-32BF-47B6-AE3F-CC90AC32E70D}.Release|x86.Build.0 = Release|Any CPU
+		{480560B6-A15F-4892-B6FF-0F9794FC1E90}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{480560B6-A15F-4892-B6FF-0F9794FC1E90}.Debug|x86.Build.0 = Debug|Any CPU
+		{480560B6-A15F-4892-B6FF-0F9794FC1E90}.Release|x86.ActiveCfg = Release|Any CPU
+		{480560B6-A15F-4892-B6FF-0F9794FC1E90}.Release|x86.Build.0 = Release|Any CPU
+		{4846603B-6573-4CCE-B2E7-92327154F579}.Debug|x86.ActiveCfg = Debug|x86
+		{4846603B-6573-4CCE-B2E7-92327154F579}.Debug|x86.Build.0 = Debug|x86
+		{4846603B-6573-4CCE-B2E7-92327154F579}.Release|x86.ActiveCfg = Release|x86
+		{4846603B-6573-4CCE-B2E7-92327154F579}.Release|x86.Build.0 = Release|x86
+		{5A799199-3EC9-45DE-B970-314FC85F9D96}.Debug|x86.ActiveCfg = Debug|x86
+		{5A799199-3EC9-45DE-B970-314FC85F9D96}.Debug|x86.Build.0 = Debug|x86
+		{5A799199-3EC9-45DE-B970-314FC85F9D96}.Release|x86.ActiveCfg = Release|x86
+		{5A799199-3EC9-45DE-B970-314FC85F9D96}.Release|x86.Build.0 = Release|x86
+		{A6B601F3-252B-4900-91D5-03C46CD6364B}.Debug|x86.ActiveCfg = Debug|x86
+		{A6B601F3-252B-4900-91D5-03C46CD6364B}.Debug|x86.Build.0 = Debug|x86
+		{A6B601F3-252B-4900-91D5-03C46CD6364B}.Release|x86.ActiveCfg = Release|x86
+		{A6B601F3-252B-4900-91D5-03C46CD6364B}.Release|x86.Build.0 = Release|x86
+		{D0D3A051-E2E9-4BB9-80C9-2159B6EC7AF4}.Debug|x86.ActiveCfg = Debug|x86
+		{D0D3A051-E2E9-4BB9-80C9-2159B6EC7AF4}.Debug|x86.Build.0 = Debug|x86
+		{D0D3A051-E2E9-4BB9-80C9-2159B6EC7AF4}.Release|x86.ActiveCfg = Release|x86
+		{D0D3A051-E2E9-4BB9-80C9-2159B6EC7AF4}.Release|x86.Build.0 = Release|x86
+		{D23C8303-88A9-4CF1-A729-A55130FF91B7}.Debug|x86.ActiveCfg = Debug|x86
+		{D23C8303-88A9-4CF1-A729-A55130FF91B7}.Debug|x86.Build.0 = Debug|x86
+		{D23C8303-88A9-4CF1-A729-A55130FF91B7}.Release|x86.ActiveCfg = Release|x86
+		{D23C8303-88A9-4CF1-A729-A55130FF91B7}.Release|x86.Build.0 = Release|x86
+		{FCC653C6-E5DC-4E24-AA7E-29095006E094}.Debug|x86.ActiveCfg = Debug|x86
+		{FCC653C6-E5DC-4E24-AA7E-29095006E094}.Debug|x86.Build.0 = Debug|x86
+		{FCC653C6-E5DC-4E24-AA7E-29095006E094}.Release|x86.ActiveCfg = Release|x86
+		{FCC653C6-E5DC-4E24-AA7E-29095006E094}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+EndGlobal
